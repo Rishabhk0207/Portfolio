@@ -1,1 +1,3 @@
 # Portfolio
+In this project, we have designed a modern portfolio website for Rishabh Kumar. The website is responsive and user-friendly, allowing users to easily navigate and explore the various sections of the website. The project section features four individual projects, showcasing the diverse skillset of Rishabh. Each project card includes a brief description, technologies used, and relevant links. The contact section offers a simple and straightforward method for users to get in touch with Rishabh, either by filling out a contact form or directly via email, GitHub, Twitter, or LinkedIn. In addition to the functionalities mentioned above, the website features an interactive hero section, including floating icons, images, and a live background color effect.
+
